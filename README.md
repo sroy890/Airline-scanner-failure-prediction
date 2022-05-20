@@ -14,4 +14,4 @@ task 3 - explain why the model was chosen to answer the question asked
 
 task 4 - explain the performance of the model, and of other models that would prove the same question.
 
-task-5: Build documentation and share it acros
+task-5: Build documentation and share it across.
